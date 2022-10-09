@@ -1,0 +1,9 @@
+.button-box {
+  background-color: #1517182d;
+  height: 420px;
+  width: 100%;
+  border-radius: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}

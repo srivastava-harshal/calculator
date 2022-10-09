@@ -1,0 +1,11 @@
+.screen {
+  background-color: #1517182d;
+  padding: 0 10px;
+  color: white;
+  height: 100px;
+  width: 95.1%;
+  border-radius: 10px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
